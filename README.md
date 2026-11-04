@@ -1,10 +1,10 @@
 <h1>Hi There, I'm Deepak <img src="https://github.githubassets.com/images/mona-loading-dimmed.gif" width="30px" alt="GitHub gif"></h1>
 
-> **Assistant Professor (Pharmacology) · M.Pharm (Pharmacology) · Ph.D. in Pharmacy (Pursuing) — bridging pharmacology research, teaching, and AI-driven innovation.**
+> **Assistant Professor (Pharmacology) · M.Pharm (Pharmacology) · Ph.D.\* in Pharmacy — bridging pharmacology research, teaching, and AI-driven innovation.**
 
 ## About Me
 
-**Assistant Professor (Pharmacology)** with ~5 years of teaching and research experience, currently pursuing a **Ph.D. in Pharmacy**. My research focuses on **neuropharmacology** — especially **Alzheimer's disease** and natural products — and I am a member of the **Consensus AI Faculty Advisory Board**, a **Reviewer for Cureus Journal of Medical Science**, and hold an Indian design patent for an AI-assisted breast cancer prediction device.
+**Assistant Professor (Pharmacology)** and **Ph.D.\* in Pharmacy** with ~5 years of teaching and research experience. My research focuses on **neuropharmacology** — especially **Alzheimer's disease** and natural products — and I am a member of the **Consensus AI Faculty Advisory Board**, a **Reviewer for Cureus Journal of Medical Science**, and hold an Indian design patent for an AI-assisted breast cancer prediction device.
 
 <p>
   <img src="https://img.shields.io/badge/Assistant%20Professor-0e7490?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Assistant Professor">
@@ -20,7 +20,7 @@
 
 <table>
   <tr>
-    <td align="center"><h2>🎓</h2><b>Ph.D. in Pharmacy</b><br><sub>Pursuing</sub></td>
+    <td align="center"><h2>🎓</h2><b>Ph.D.* in Pharmacy</b></td>
     <td align="center"><h2>💊</h2><b>M.Pharm — Pharmacology</b><br><sub>Maharshi Dayanand University, Rohtak<br>2017 – 2019 · 1st Division</sub></td>
     <td align="center"><h2>🧪</h2><b>B.Pharm</b><br><sub>Maharshi Dayanand University, Rohtak<br>2012 – 2016 · 1st Division</sub></td>
     <td align="center"><h2>🪪</h2><b>Registered Pharmacist</b><br><sub>Haryana State Pharmacy Council</sub></td>
