@@ -82,8 +82,6 @@
   <tr>
     <td align="center"><img title="Python" alt="Python" width="40" src="https://raw.githubusercontent.com/Artist-MOBAI/MOBAIcons/main/icons/python.svg" /><br>Python</td>
     <td align="center"><img title="R" alt="R" width="40" src="https://raw.githubusercontent.com/Artist-MOBAI/MOBAIcons/main/icons/r.svg" /><br>R</td>
-    <td align="center"><img title="RStudio" alt="RStudio" width="40" src="https://skillicons.dev/icons?i=rstudio" /><br>RStudio</td>
-    <td align="center"><img title="Jupyter" alt="Jupyter" width="40" src="https://skillicons.dev/icons?i=jupyter" /><br>Jupyter</td>
     <td align="center"><img title="Anaconda" alt="Anaconda" width="40" src="https://skillicons.dev/icons?i=anaconda" /><br>Anaconda</td>
     <td align="center"><img title="Markdown" alt="Markdown" width="40" src="https://raw.githubusercontent.com/Artist-MOBAI/MOBAIcons/main/icons/markdown.svg" /><br>Markdown</td>
   </tr>
