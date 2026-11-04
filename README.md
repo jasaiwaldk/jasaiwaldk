@@ -9,7 +9,7 @@
 <p>
   <img src="https://img.shields.io/badge/Assistant%20Professor-0e7490?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Assistant Professor">
   <img src="https://img.shields.io/badge/Pharmacology-4f46e5?style=for-the-badge&logo=moleculer&logoColor=white" alt="Pharmacology">
-  <img src="https://img.shields.io/badge/Ph.D.%20Scholar-ff6b35?style=for-the-badge&logo=bookstack&logoColor=white" alt="PhD Scholar">
+  <img src="https://img.shields.io/badge/Ph.D.%2A%20in%20Pharmacy-ff6b35?style=for-the-badge&logo=bookstack&logoColor=white" alt="Ph.D.* in Pharmacy">
   <img src="https://img.shields.io/badge/Consensus%20AI-Faculty%20Advisory%20Board-0f172a?style=for-the-badge&logo=openai&logoColor=white" alt="Consensus AI Faculty Advisory Board">
   <img src="https://img.shields.io/badge/Design%20Patent-Indian%20Patent%20Office-334155?style=for-the-badge" alt="Design Patent">
   <img src="https://img.shields.io/badge/Cureus%20Reviewer-16a34a?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Cureus Reviewer">
@@ -20,10 +20,9 @@
 
 <table>
   <tr>
-    <td align="center"><h2>🎓</h2><b>Ph.D.* in Pharmacy</b></td>
+    <td align="center"><h2>🎓</h2><b>Ph.D.* in Pharmacy</b><br><sub>2024 – 2027</sub></td>
     <td align="center"><h2>💊</h2><b>M.Pharm — Pharmacology</b><br><sub>Maharshi Dayanand University, Rohtak<br>2017 – 2019 · 1st Division</sub></td>
     <td align="center"><h2>🧪</h2><b>B.Pharm</b><br><sub>Maharshi Dayanand University, Rohtak<br>2012 – 2016 · 1st Division</sub></td>
-    <td align="center"><h2>🪪</h2><b>Registered Pharmacist</b><br><sub>Haryana State Pharmacy Council</sub></td>
   </tr>
 </table>
 
