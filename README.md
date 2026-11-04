@@ -20,7 +20,7 @@
 
 <table>
   <tr>
-    <td align="center"><h2>🎓</h2><b>Ph.D.* in Pharmacy</b><br><sub>2024 – 2027</sub></td>
+    <td align="center"><h2>🎓</h2><b>Ph.D.* in Pharmacy</b><br><sub>Maharishi Markandeshwar (Deemed to be University), Mullana, Ambala<br>2024 – 2027</sub></td>
     <td align="center"><h2>💊</h2><b>M.Pharm — Pharmacology</b><br><sub>Maharshi Dayanand University, Rohtak<br>2017 – 2019 · 1st Division</sub></td>
     <td align="center"><h2>🧪</h2><b>B.Pharm</b><br><sub>Maharshi Dayanand University, Rohtak<br>2012 – 2016 · 1st Division</sub></td>
   </tr>
