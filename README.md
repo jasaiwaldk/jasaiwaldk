@@ -4,16 +4,16 @@
 
 ## About Me
 
-**Assistant Professor (Pharmacology)** and **Ph.D.\* in Pharmacy** with ~5 years of teaching and research experience. My research focuses on **neuropharmacology** — especially **Alzheimer's disease** and natural products — with expertise in **systematic reviews & meta-analysis**, **network pharmacology**, and **molecular docking**. I am a member of the **Consensus AI Faculty Advisory Board**, a **Reviewer for Cureus Journal of Medical Science**, and hold an Indian design patent for an AI-assisted breast cancer prediction device.
+**Assistant Professor (Pharmacology)** and **Ph.D.\* in Pharmacy**. My research focuses on **neuropharmacology** — especially **Alzheimer's disease** and natural products — with expertise in **systematic reviews & meta-analysis**, **network pharmacology**, and **molecular docking**. I am a member of the **Consensus AI Faculty Advisory Board**, a **Reviewer for Cureus Journal of Medical Science**, and hold an Indian design patent for an AI-assisted breast cancer prediction device.
 
 <p>
   <img src="https://img.shields.io/badge/Assistant%20Professor-0e7490?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="Assistant Professor">
   <img src="https://img.shields.io/badge/Pharmacology-4f46e5?style=for-the-badge&logo=moleculer&logoColor=white" alt="Pharmacology">
   <img src="https://img.shields.io/badge/Ph.D.%2A%20in%20Pharmacy-ea580c?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Ph.D.* in Pharmacy">
-  <img src="https://img.shields.io/badge/Consensus%20AI%20Faculty%20Advisory%20Board-7c3aed?style=for-the-badge&logo=bookstack&logoColor=white" alt="Consensus AI Faculty Advisory Board">
+  <br>
+  <img src="https://img.shields.io/badge/Consensus%20AI%20Advisory%20Board-7c3aed?style=for-the-badge&logo=bookstack&logoColor=white" alt="Consensus AI Faculty Advisory Board">
   <img src="https://img.shields.io/badge/Design%20Patent-be123c?style=for-the-badge&logo=googledocs&logoColor=white" alt="Design Patent">
   <img src="https://img.shields.io/badge/Cureus%20Reviewer-16a34a?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Cureus Reviewer">
-  <img src="https://komarev.com/ghpvc/?username=jasaiwaldk&style=for-the-badge&color=1f6feb&label=Profile%20Views" alt="Profile Views">
 </p>
 
 ## Academic Journey :mortar_board:
@@ -155,13 +155,9 @@
 
 ## Let's Connect :handshake:
 
-<a href="https://github.com/jasaiwaldk"><img src="https://img.shields.io/badge/GitHub-jasaiwaldk-F38020?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="mailto:jasaiwaldk@gmail.com"><img src="https://img.shields.io/badge/Email-jasaiwaldk%40gmail.com-8957e5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://www.linkedin.com/in/jasaiwaldk/"><img src="https://img.shields.io/badge/LinkedIn-jasaiwaldk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://scholar.google.com/citations?hl=en&user=uGm6-uUAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
-<a href="https://orcid.org/0000-0002-9967-4691"><img src="https://img.shields.io/badge/ORCID-0000--0002--9967--4691-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
 <a href="https://www.researchgate.net/profile/Deepak-Kumar-250"><img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
 <a href="https://www.scopus.com/authid/detail.uri?authorId=57671133700"><img src="https://img.shields.io/badge/Scopus-57671133700-E9711C?style=for-the-badge&logo=scopus&logoColor=white" alt="Scopus ID"></a>
 <a href="https://www.webofscience.com/wos/author/rid/ADS-3316-2022"><img src="https://img.shields.io/badge/ResearcherID-ADS--3316--2022-5E33BF?style=for-the-badge&logo=clarivate&logoColor=white" alt="Web of Science ResearcherID"></a>
 <a href="https://vidwan.inflibnet.ac.in/profile/577318"><img src="https://img.shields.io/badge/Vidwan-577318-1f6feb?style=for-the-badge&logo=bookstack&logoColor=white" alt="Vidwan ID"></a>
-<a href="https://github.com/jasaiwaldk"><img src="https://img.shields.io/badge/Joined-September%202025-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Joined September 2025"></a>
+<img src="https://komarev.com/ghpvc/?username=jasaiwaldk&style=for-the-badge&color=1f6feb&label=Profile%20Views" alt="Profile Views">
