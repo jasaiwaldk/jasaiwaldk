@@ -4,7 +4,7 @@
 
 ## About Me
 
-**Assistant Professor (Pharmacology)** and **Ph.D.\* in Pharmacy** with ~5 years of teaching and research experience. My research focuses on **neuropharmacology** — especially **Alzheimer's disease** and natural products — and I am a member of the **Consensus AI Faculty Advisory Board**, a **Reviewer for Cureus Journal of Medical Science**, and hold an Indian design patent for an AI-assisted breast cancer prediction device.
+**Assistant Professor (Pharmacology)** and **Ph.D.\* in Pharmacy** with ~5 years of teaching and research experience. My research focuses on **neuropharmacology** — especially **Alzheimer's disease** and natural products — with expertise in **systematic reviews & meta-analysis**, **network pharmacology**, and **molecular docking**. I am a member of the **Consensus AI Faculty Advisory Board**, a **Reviewer for Cureus Journal of Medical Science**, and hold an Indian design patent for an AI-assisted breast cancer prediction device.
 
 <p>
   <img src="https://img.shields.io/badge/Assistant%20Professor-0e7490?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="Assistant Professor">
@@ -45,6 +45,29 @@
   <img src="https://img.shields.io/badge/Pharmacy%20Education-f97316?style=for-the-badge&logo=moodle&logoColor=white" alt="Pharmacy Education">
 </p>
 
+**Research Expertise**
+
+<p>
+  <img src="https://img.shields.io/badge/Systematic%20Review%20(SLR)-0e7490?style=for-the-badge&logo=bookstack&logoColor=white" alt="Systematic Review">
+  <img src="https://img.shields.io/badge/Meta--analysis-7c3aed?style=for-the-badge&logo=plotly&logoColor=white" alt="Meta-analysis">
+  <img src="https://img.shields.io/badge/Network%20Pharmacology-16a34a?style=for-the-badge&logo=graphql&logoColor=white" alt="Network Pharmacology">
+  <img src="https://img.shields.io/badge/Molecular%20Docking-be123c?style=for-the-badge&logo=moleculer&logoColor=white" alt="Molecular Docking">
+</p>
+
+**Research Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/PRISMA%202020-334155?style=for-the-badge" alt="PRISMA 2020">
+  <img src="https://img.shields.io/badge/RevMan-1f6feb?style=for-the-badge" alt="RevMan">
+  <img src="https://img.shields.io/badge/Rayyan-0891b2?style=for-the-badge" alt="Rayyan">
+  <img src="https://img.shields.io/badge/Zotero%20%2F%20Mendeley-CC2936?style=for-the-badge&logo=zotero&logoColor=white" alt="Zotero Mendeley">
+  <img src="https://img.shields.io/badge/Cytoscape-f97316?style=for-the-badge" alt="Cytoscape">
+  <img src="https://img.shields.io/badge/STRING%20%2F%20KEGG-16a34a?style=for-the-badge" alt="STRING KEGG">
+  <img src="https://img.shields.io/badge/AutoDock%20Vina-4f46e5?style=for-the-badge" alt="AutoDock Vina">
+  <img src="https://img.shields.io/badge/PyMOL-0e7490?style=for-the-badge&logo=python&logoColor=white" alt="PyMOL">
+  <img src="https://img.shields.io/badge/SwissADME-dc2626?style=for-the-badge" alt="SwissADME">
+</p>
+
 **Pharmacology Specialization**
 
 <p>
@@ -70,7 +93,6 @@
 
 <p>
   <img src="https://img.shields.io/badge/AI%20in%20Drug%20Discovery-4f46e5?style=for-the-badge&logo=openai&logoColor=white" alt="AI in Drug Discovery">
-  <img src="https://img.shields.io/badge/CADD%20%2F%20Molecular%20Docking-0e7490?style=for-the-badge&logo=moleculer&logoColor=white" alt="CADD and Molecular Docking">
   <img src="https://img.shields.io/badge/Python%20Data%20Analysis%20for%20Healthcare-16a34a?style=for-the-badge&logo=python&logoColor=white" alt="Python Data Analysis for Healthcare">
   <img src="https://img.shields.io/badge/ADMET%20Prediction-0ea5e9?style=for-the-badge&logo=databricks&logoColor=white" alt="ADMET Prediction">
   <img src="https://img.shields.io/badge/AI%20Medical%20Devices-be123c?style=for-the-badge&logo=probot&logoColor=white" alt="AI Medical Devices">
@@ -95,7 +117,6 @@
   <img src="https://img.shields.io/badge/GraphPad%20Prism-1f6feb?style=for-the-badge" alt="GraphPad Prism">
   <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft Office">
   <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=googlesheets&logoColor=white" alt="MS Excel">
-  <img src="https://img.shields.io/badge/PyMOL%20%2F%20AutoDock-0e7490?style=for-the-badge&logo=python&logoColor=white" alt="PyMOL AutoDock">
 </p>
 
 ## Publications & Patent :page_facing_up:
