@@ -159,6 +159,7 @@
 <a href="mailto:jasaiwaldk@gmail.com"><img src="https://img.shields.io/badge/Email-jasaiwaldk%40gmail.com-8957e5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://www.linkedin.com/in/jasaiwaldk/"><img src="https://img.shields.io/badge/LinkedIn-jasaiwaldk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://scholar.google.com/citations?hl=en&user=uGm6-uUAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
+<a href="https://orcid.org/0000-0002-9967-4691"><img src="https://img.shields.io/badge/ORCID-0000--0002--9967--4691-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
 <a href="https://www.researchgate.net/profile/Deepak-Kumar-250"><img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
 <a href="https://www.scopus.com/authid/detail.uri?authorId=57671133700"><img src="https://img.shields.io/badge/Scopus-57671133700-E9711C?style=for-the-badge&logo=scopus&logoColor=white" alt="Scopus ID"></a>
 <a href="https://www.webofscience.com/wos/author/rid/ADS-3316-2022"><img src="https://img.shields.io/badge/ResearcherID-ADS--3316--2022-5E33BF?style=for-the-badge&logo=clarivate&logoColor=white" alt="Web of Science ResearcherID"></a>
