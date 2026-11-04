@@ -7,11 +7,11 @@
 **Assistant Professor (Pharmacology)** and **Ph.D.\* in Pharmacy** with ~5 years of teaching and research experience. My research focuses on **neuropharmacology** — especially **Alzheimer's disease** and natural products — and I am a member of the **Consensus AI Faculty Advisory Board**, a **Reviewer for Cureus Journal of Medical Science**, and hold an Indian design patent for an AI-assisted breast cancer prediction device.
 
 <p>
-  <img src="https://img.shields.io/badge/Assistant%20Professor-0e7490?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Assistant Professor">
+  <img src="https://img.shields.io/badge/Assistant%20Professor-0e7490?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="Assistant Professor">
   <img src="https://img.shields.io/badge/Pharmacology-4f46e5?style=for-the-badge&logo=moleculer&logoColor=white" alt="Pharmacology">
-  <img src="https://img.shields.io/badge/Ph.D.%2A%20in%20Pharmacy-ff6b35?style=for-the-badge&logo=bookstack&logoColor=white" alt="Ph.D.* in Pharmacy">
-  <img src="https://img.shields.io/badge/Consensus%20AI-Faculty%20Advisory%20Board-0f172a?style=for-the-badge&logo=openai&logoColor=white" alt="Consensus AI Faculty Advisory Board">
-  <img src="https://img.shields.io/badge/Design%20Patent-Indian%20Patent%20Office-334155?style=for-the-badge" alt="Design Patent">
+  <img src="https://img.shields.io/badge/Ph.D.%2A%20in%20Pharmacy-ea580c?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Ph.D.* in Pharmacy">
+  <img src="https://img.shields.io/badge/Consensus%20AI%20Faculty%20Advisory%20Board-7c3aed?style=for-the-badge&logo=bookstack&logoColor=white" alt="Consensus AI Faculty Advisory Board">
+  <img src="https://img.shields.io/badge/Design%20Patent-be123c?style=for-the-badge&logo=googledocs&logoColor=white" alt="Design Patent">
   <img src="https://img.shields.io/badge/Cureus%20Reviewer-16a34a?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Cureus Reviewer">
   <img src="https://komarev.com/ghpvc/?username=jasaiwaldk&style=for-the-badge&color=1f6feb&label=Profile%20Views" alt="Profile Views">
 </p>
