@@ -57,15 +57,12 @@
 **Research Tools**
 
 <p>
-  <img src="https://img.shields.io/badge/PRISMA%202020-334155?style=for-the-badge" alt="PRISMA 2020">
-  <img src="https://img.shields.io/badge/RevMan-1f6feb?style=for-the-badge" alt="RevMan">
-  <img src="https://img.shields.io/badge/Rayyan-0891b2?style=for-the-badge" alt="Rayyan">
-  <img src="https://img.shields.io/badge/Zotero%20%2F%20Mendeley-CC2936?style=for-the-badge&logo=zotero&logoColor=white" alt="Zotero Mendeley">
+  <img src="https://img.shields.io/badge/Covidence-0e7490?style=for-the-badge" alt="Covidence">
+  <img src="https://img.shields.io/badge/RevMan-7c3aed?style=for-the-badge" alt="RevMan">
   <img src="https://img.shields.io/badge/Cytoscape-f97316?style=for-the-badge" alt="Cytoscape">
-  <img src="https://img.shields.io/badge/STRING%20%2F%20KEGG-16a34a?style=for-the-badge" alt="STRING KEGG">
-  <img src="https://img.shields.io/badge/AutoDock%20Vina-4f46e5?style=for-the-badge" alt="AutoDock Vina">
-  <img src="https://img.shields.io/badge/PyMOL-0e7490?style=for-the-badge&logo=python&logoColor=white" alt="PyMOL">
-  <img src="https://img.shields.io/badge/SwissADME-dc2626?style=for-the-badge" alt="SwissADME">
+  <img src="https://img.shields.io/badge/STRING-16a34a?style=for-the-badge" alt="STRING">
+  <img src="https://img.shields.io/badge/AutoDock%20Vina-be123c?style=for-the-badge" alt="AutoDock Vina">
+  <img src="https://img.shields.io/badge/PyMOL-4f46e5?style=for-the-badge" alt="PyMOL">
 </p>
 
 **Pharmacology Specialization**
